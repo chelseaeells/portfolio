@@ -1,0 +1,43 @@
+.picture {
+	margin-top: 15px;
+}
+
+.name{
+	text-align: right;
+}
+
+.description {
+	border: 5px #61D2D6 dotted;
+	padding: 10px; 
+}
+
+h1{
+	text-align: right;
+	font-family: 'Gloria Hallelujah', cursive; 
+}
+
+h3{
+	text-align: right;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+body{
+	background-color: #EA3556;
+	}
+
+.container{
+	background-color: #EDE5E2;
+}
+
+#header{
+	border-bottom: 5px #EDDE45 solid;
+	padding: 10px 0;
+}
+
+.me{
+	padding: 10px 0;
+}
+
+p{
+	font-family: 'Verdana';
+}
